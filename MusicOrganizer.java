@@ -10,7 +10,8 @@ public class MusicOrganizer
 {
     // An ArrayList for storing the file names of music files.
     private ArrayList<String> files;
-        
+    private ArrayList<Book> library;  
+    
     /**
      * Create a MusicOrganizer
      */

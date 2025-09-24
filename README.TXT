@@ -1,16 +1,15 @@
-Project: music-organizer-v1. A project to collect audio files.
-Authors: David J. Barnes and Michael Kölling
-
-This project is part of the material for the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-
-It is discussed in chapter 4.
-
-To start:
-
-Create a MusicOrganizer object on the object bench.
-Use its methods to add, show, and remove files.
-
+2) It doesnt do anything and no error pops up
+3) nothing happens
+4) private ArrayList<Book> library; 
+5) ArrayList<Student> cs101;
+6) private ArrayList<MusicTrack> tracks;
+7) library = new ArrayList<>();
+   cs101 = new ArrayList<>();
+   track = new ArrayList<>();
+8) 10
+9) items.get(4)
+10) 14
+11) files.add(favoriteTrack)
+12) file.remove(dates)
+  
+   
