@@ -11,5 +11,7 @@
 10) 14
 11) files.add(favoriteTrack)
 12) file.remove(dates)
-  
+13) 5
+18) i should have a print type
+19) as many println statements as you have index numbers
    

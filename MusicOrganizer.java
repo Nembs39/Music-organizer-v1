@@ -60,4 +60,11 @@ public class MusicOrganizer
             files.remove(index);
         //}
     }
+    
+    public void listAllFiles()
+    {
+        for(String filename : files) {
+            System.out.println(filename);
+        }
+    }
 }
