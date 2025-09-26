@@ -67,4 +67,25 @@ public class MusicOrganizer
             System.out.println(filename);
         }
     }
+    
+    public void listWithIndex()
+    {
+        for(String filename : files) {
+            System.out.println(filename);
+        }
+    }
+    
+    public void listMatching(String searchString)
+    {
+        for(String filename : files) {
+            if(filename.contains(searchString)) {
+                // A match.
+                System.out.println(filename);
+            }
+            else {
+                System.out.println("no file names matched the initial search");
+            }
+            System.out.println();
+        }
+    }
 }
